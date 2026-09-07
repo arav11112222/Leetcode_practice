@@ -31,4 +31,12 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/arav11112222/Leetcode_practice/tree/master/0867-transpose-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/arav11112222/Leetcode_practice/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/arav11112222/Leetcode_practice/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
