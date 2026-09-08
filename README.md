@@ -21,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/arav11112222/Leetcode_practice/tree/master/0258-add-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arav11112222/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
@@ -30,6 +31,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/arav11112222/Leetcode_practice/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/arav11112222/Leetcode_practice/tree/master/0867-transpose-matrix) |
 ## Linked List
 |  |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/arav11112222/Leetcode_practice/tree/master/0203-remove-linked-list-elements) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/arav11112222/Leetcode_practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
