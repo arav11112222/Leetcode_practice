@@ -24,6 +24,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/arav11112222/Leetcode_practice/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/arav11112222/Leetcode_practice/tree/master/0258-add-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/arav11112222/Leetcode_practice/tree/master/1486-xor-operation-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arav11112222/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arav11112222/Leetcode_practice/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/arav11112222/Leetcode_practice/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
