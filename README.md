@@ -54,4 +54,8 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/arav11112222/Leetcode_practice/tree/master/0029-divide-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/arav11112222/Leetcode_practice/tree/master/1486-xor-operation-in-an-array) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/arav11112222/Leetcode_practice/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
