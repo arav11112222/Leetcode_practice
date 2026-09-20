@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arav11112222/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/arav11112222/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/arav11112222/Leetcode_practice/tree/master/0217-contains-duplicate) |
+| [0334-increasing-triplet-subsequence](https://github.com/arav11112222/Leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0867-transpose-matrix](https://github.com/arav11112222/Leetcode_practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/arav11112222/Leetcode_practice/tree/master/1572-matrix-diagonal-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arav11112222/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arav11112222/Leetcode_practice/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/arav11112222/Leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 ## Quicksort
 |  |
 | ------- |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arav11112222/Leetcode_practice/tree/master/0075-sort-colors) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/arav11112222/Leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
