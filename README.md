@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arav11112222/Leetcode_practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/arav11112222/Leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/arav11112222/Leetcode_practice/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arav11112222/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/arav11112222/Leetcode_practice/tree/master/0217-contains-duplicate) |
@@ -62,9 +63,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arav11112222/Leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arav11112222/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arav11112222/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/arav11112222/Leetcode_practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
