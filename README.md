@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/arav11112222/Leetcode_practice/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/arav11112222/Leetcode_practice/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arav11112222/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/arav11112222/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/arav11112222/Leetcode_practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/arav11112222/Leetcode_practice/tree/master/1572-matrix-diagonal-sum) |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/arav11112222/Leetcode_practice/tree/master/0058-length-of-last-word) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arav11112222/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arav11112222/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
