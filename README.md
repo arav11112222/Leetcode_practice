@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arav11112222/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/arav11112222/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/arav11112222/Leetcode_practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/arav11112222/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/arav11112222/Leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0867-transpose-matrix](https://github.com/arav11112222/Leetcode_practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/arav11112222/Leetcode_practice/tree/master/1572-matrix-diagonal-sum) |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/arav11112222/Leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/arav11112222/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
