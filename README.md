@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/arav11112222/Leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/arav11112222/Leetcode_practice/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arav11112222/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/arav11112222/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/arav11112222/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/arav11112222/Leetcode_practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/arav11112222/Leetcode_practice/tree/master/1572-matrix-diagonal-sum) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/arav11112222/Leetcode_practice/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/arav11112222/Leetcode_practice/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/arav11112222/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/arav11112222/Leetcode_practice/tree/master/0258-add-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/arav11112222/Leetcode_practice/tree/master/1486-xor-operation-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arav11112222/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -65,6 +67,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/arav11112222/Leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arav11112222/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/arav11112222/Leetcode_practice/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
