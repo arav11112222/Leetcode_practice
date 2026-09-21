@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/arav11112222/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/arav11112222/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/arav11112222/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/arav11112222/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/arav11112222/Leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0867-transpose-matrix](https://github.com/arav11112222/Leetcode_practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/arav11112222/Leetcode_practice/tree/master/1572-matrix-diagonal-sum) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/arav11112222/Leetcode_practice/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/arav11112222/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [1486-xor-operation-in-an-array](https://github.com/arav11112222/Leetcode_practice/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
@@ -73,10 +75,12 @@
 | [0075-sort-colors](https://github.com/arav11112222/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arav11112222/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/arav11112222/Leetcode_practice/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/arav11112222/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arav11112222/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/arav11112222/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -98,4 +102,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arav11112222/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/arav11112222/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/arav11112222/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
