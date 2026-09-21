@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/arav11112222/Leetcode_practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/arav11112222/Leetcode_practice/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/arav11112222/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/arav11112222/Leetcode_practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/arav11112222/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/arav11112222/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/arav11112222/Leetcode_practice/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/arav11112222/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/arav11112222/Leetcode_practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/arav11112222/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/arav11112222/Leetcode_practice/tree/master/0258-add-digits) |
@@ -41,6 +43,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/arav11112222/Leetcode_practice/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/arav11112222/Leetcode_practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/arav11112222/Leetcode_practice/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
