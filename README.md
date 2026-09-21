@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/arav11112222/Leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/arav11112222/Leetcode_practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/arav11112222/Leetcode_practice/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/arav11112222/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arav11112222/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/arav11112222/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/arav11112222/Leetcode_practice/tree/master/0217-contains-duplicate) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arav11112222/Leetcode_practice/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/arav11112222/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/arav11112222/Leetcode_practice/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/arav11112222/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arav11112222/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
