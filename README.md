@@ -19,6 +19,7 @@
 | [0287-find-the-duplicate-number](https://github.com/arav11112222/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/arav11112222/Leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/arav11112222/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/arav11112222/Leetcode_practice/tree/master/0525-contiguous-array) |
 | [0867-transpose-matrix](https://github.com/arav11112222/Leetcode_practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/arav11112222/Leetcode_practice/tree/master/1572-matrix-diagonal-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arav11112222/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -30,6 +31,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/arav11112222/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/arav11112222/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/arav11112222/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/arav11112222/Leetcode_practice/tree/master/0525-contiguous-array) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arav11112222/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/arav11112222/Leetcode_practice/tree/master/0525-contiguous-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
