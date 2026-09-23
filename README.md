@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/arav11112222/Leetcode_practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/arav11112222/Leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/arav11112222/Leetcode_practice/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/arav11112222/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/arav11112222/Leetcode_practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/arav11112222/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/arav11112222/Leetcode_practice/tree/master/0075-sort-colors) |
@@ -136,11 +137,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arav11112222/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arav11112222/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/arav11112222/Leetcode_practice/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arav11112222/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/arav11112222/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
