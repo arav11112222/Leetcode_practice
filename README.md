@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/arav11112222/Leetcode_practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/arav11112222/Leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/arav11112222/Leetcode_practice/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arav11112222/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/arav11112222/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/arav11112222/Leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arav11112222/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -135,6 +136,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arav11112222/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/arav11112222/Leetcode_practice/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
