@@ -86,11 +86,13 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/arav11112222/Leetcode_practice/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/arav11112222/Leetcode_practice/tree/master/0125-valid-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arav11112222/Leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/arav11112222/Leetcode_practice/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/arav11112222/Leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arav11112222/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/arav11112222/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/arav11112222/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
