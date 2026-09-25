@@ -50,6 +50,7 @@
 | [0066-plus-one](https://github.com/arav11112222/Leetcode_practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/arav11112222/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/arav11112222/Leetcode_practice/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/arav11112222/Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [1486-xor-operation-in-an-array](https://github.com/arav11112222/Leetcode_practice/tree/master/1486-xor-operation-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arav11112222/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arav11112222/Leetcode_practice/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/arav11112222/Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/arav11112222/Leetcode_practice/tree/master/0867-transpose-matrix) |
 ## Linked List
 |  |
@@ -87,6 +89,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/arav11112222/Leetcode_practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/arav11112222/Leetcode_practice/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/arav11112222/Leetcode_practice/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
